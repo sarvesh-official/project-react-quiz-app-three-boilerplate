@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Which language is primarily used for styling web pages?",
+    "optionA": "JavaScript",
+    "optionB": "HTML",
+    "optionC": "CSS",
+    "optionD": "Python",
+    "answer": "CSS"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "optionA": "Hyper Text Markup Language",
+    "optionB": "Highly Technical Markup Language",
+    "optionC": "Hyperlinks and Text Markup Language",
+    "optionD": "Home Tool Markup Language",
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which tool can you use to inspect and debug web elements?",
+    "optionA": "Visual Studio Code",
+    "optionB": "Google Chrome Developer Tools",
+    "optionC": "Sublime Text",
+    "optionD": "Atom",
+    "answer": "Google Chrome Developer Tools"
+  },
+  {
+    "question": "What is the purpose of a 'viewport' meta tag in HTML?",
+    "optionA": "To set the background color",
+    "optionB": "To define the text font",
+    "optionC": "To control the layout on mobile browsers",
+    "optionD": "To link to external stylesheets",
+    "answer": "To control the layout on mobile browsers"
+  },
+  {
+    "question": "Which of the following is NOT a CSS preprocessor?",
+    "optionA": "Sass",
+    "optionB": "Less",
+    "optionC": "Bootstrap",
+    "optionD": "Stylus",
+    "answer": "Bootstrap"
+  },
+  {
+    "question": "What does 'API' stand for in the context of web development?",
+    "optionA": "Advanced Programming Interface",
+    "optionB": "Application Programming Interface",
+    "optionC": "Automated Protocol Integration",
+    "optionD": "All-Purpose Interface",
+    "answer": "Application Programming Interface"
+  },
+  {
+    "question": "Which JavaScript framework is often used for building single-page applications?",
+    "optionA": "React",
+    "optionB": "jQuery",
+    "optionC": "Angular",
+    "optionD": "Vue.js",
+    "answer": "React"
+  },
+  {
+    "question": "What does the 'npm' command stand for?",
+    "optionA": "Node Package Manager",
+    "optionB": "Node Project Manager",
+    "optionC": "Network Package Manager",
+    "optionD": "New Project Manager",
+    "answer": "Node Package Manager"
+  },
+  {
+    "question": "Which method is used in JavaScript to add an event listener to an element?",
+    "optionA": ".onEvent",
+    "optionB": ".addEventListener",
+    "optionC": ".attachEvent",
+    "optionD": ".eventListener",
+    "answer": ".addEventListener"
+  },
+  {
+    "question": "What is the primary purpose of responsive web design?",
+    "optionA": "To increase website loading speed",
+    "optionB": "To optimize for search engines",
+    "optionC": "To provide a consistent user experience across devices",
+    "optionD": "To add animations to the website",
+    "answer": "To provide a consistent user experience across devices"
+  }
+]
